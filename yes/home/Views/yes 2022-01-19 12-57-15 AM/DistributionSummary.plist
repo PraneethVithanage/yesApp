@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yes.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B4F89AEB0B610FB93F616587B0E430EE210406E4</string>
+				<key>dateExpires</key>
+				<string>2022-12-02</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V4GQJ3DNS7.com.mimm.yes</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V4GQJ3DNS7</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>V4GQJ3DNS7.com.mimm.yes</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>yes.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c812745a-ac7d-4f8a-9319-90b09f2386ef</string>
+				<key>dateExpires</key>
+				<string>2022-12-02</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.mimm.yes</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V4GQJ3DNS7</string>
+				<key>name</key>
+				<string>Microimage Mobile Media Pvt Ltd</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
